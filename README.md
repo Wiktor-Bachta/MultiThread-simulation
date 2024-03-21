@@ -1,5 +1,5 @@
 ```
 cd ./tp
 mvn install
-mvn exec:java -Dexec.args="50 50 0.2 100"
+mvn exec:java -Dexec.args="30 30 0.3 3000"
 ```
